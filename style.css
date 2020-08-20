@@ -145,7 +145,7 @@ nav .right-content{
 
 .login-page{
     position: relative;
-    background-color: orange;
+    background-color: white;
     z-index: 1000;
     height: 0vh;
     display: flex;
@@ -158,7 +158,7 @@ nav .right-content{
 
 
 .login-page button{
-    background-color: orange;
+    background-color: white;
     border: 0px;
     outline: 0;
     position: absolute;
@@ -196,6 +196,7 @@ hr{
 
 
 .sign-page button{
+    background-color: white;
     border: 0px;
     outline: 0;
     position: absolute;
